@@ -27,7 +27,8 @@ TradeWise is a full-stack web application built using the **MERN stack** (MongoD
 
 ## Project Structure
 TradeWise1/
-│
+
+
 ├── backend/ # Server-side code (APIs, database models)
 
 ├── frontend/ # React application
